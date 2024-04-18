@@ -20,8 +20,8 @@ lottieContainer.style.cssText = `
     max-height: 100%;
     display: none;
     position: absolute;
-    top: 100%;
-    left: 100%;
+    top: 50%;
+    left: 50%;
     transform: translate(-50%, -50%);
 `;
 lottieContainer.style.display = 'none';
