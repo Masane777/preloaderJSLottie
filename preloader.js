@@ -7,8 +7,8 @@ overlay.style.cssText = `
     position: fixed;
     top: 0;
     left: 0;
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
     background-color: rgba(255, 255, 255, 0.7);
     z-index: 999;
 `;
@@ -16,8 +16,8 @@ overlay.style.cssText = `
 const lottieContainer = document.createElement('div');
 lottieContainer.id = 'lottieContainer';
 lottieContainer.style.cssText = `
-    max-width: 100px;
-    max-height: 100px;
+    max-width: 200px;
+    max-height: 200px;
     display: none;
     position: absolute;
     top: 50%;
