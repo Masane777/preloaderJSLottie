@@ -7,8 +7,8 @@ overlay.style.cssText = `
     position: fixed;
     top: 0;
     left: 0;
-    width: 100%;
-    height: 100%;
+    width: 200px;
+    height: 200px;
     background-color: rgba(255, 255, 255, 0.7);
     z-index: 999;
 `;
@@ -20,8 +20,8 @@ lottieContainer.style.cssText = `
     max-height: 100%;
     display: none;
     position: absolute;
-    top: 25%;
-    left: 25%;
+    top: 50%;
+    left: 50%;
     transform: translate(-50%, -50%);
 `;
 lottieContainer.style.display = 'none';
