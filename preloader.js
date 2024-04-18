@@ -38,7 +38,7 @@ function hideOverlay() {
         renderer: 'svg', // ou 'canvas' se preferir
         loop: true,
         autoplay: true,
-        path: 'https://masane777.github.io/preloaderJSLottie/PreloaderGallixQuadrados.json',
+        path: 'https://masane777.github.io/preloaderJSLottie/JVGIsylS3F-3.json',
     });
 }
 
